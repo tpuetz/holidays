@@ -64,7 +64,7 @@ months:
     regions: [us]
     mday: 25
     observed: to_weekday_if_weekend
-  - name: Christmas Day 2
+  - name: Boxing Day
     regions: [us]
     mday: 26
 
