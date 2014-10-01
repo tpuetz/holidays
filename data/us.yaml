@@ -67,7 +67,7 @@ months:
   - name: Christmas Day 2
     regions: [us]
     mday: 26
-    observed: to_weekday_if_weekend
+
 methods:
   us_inauguration_day: |
     # January 20, every fourth year, following Presidential election
